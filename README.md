@@ -1,1 +1,2 @@
-# sanjidhttps://mdaminulislamsanjid.github.io/sanjid/
+# sanjid
+https://mdaminulislamsanjid.github.io/sanjid/
